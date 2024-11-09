@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ODGAPI_AF": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7271",
+      "launchBrowser": false
+    }
+  }
+}
